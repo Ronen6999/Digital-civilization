@@ -1,0 +1,49 @@
+name: Digital Civilization Simulation
+
+on:
+  schedule:
+    # Run simulation at 06:00 and 18:00 India time (IST = UTC+5:30)
+    # → 00:30 and 12:30 UTC
+    - cron: '30 0,12 * * *'
+  workflow_dispatch:
+
+jobs:
+  simulate:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm ci
+      
+    - name: Initialize world (first run only)
+      run: |
+        if [ ! -f data/world.json ] || [ ! -f data/machine.json ]; then
+          node scripts/initializeWorld.js
+        fi
+      
+    - name: Run simulation (1 cycle)
+      run: node src/index.js
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git diff --staged --quiet || (git commit -m "Update simulation data [skip ci]" && git push)
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

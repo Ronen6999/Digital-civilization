@@ -1,0 +1,29 @@
+{
+  "name": "digital-civilization-simulation",
+  "version": "1.0.0",
+  "description": "A simulation of digital civilization with world dynamics and machine intelligence",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "init": "node scripts/initializeWorld.js",
+    "manual-run": "node scripts/manualRun.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simulation",
+    "ai",
+    "world-modeling",
+    "machine-learning",
+    "digital-civilization"
+  ],
+  "author": "Digital Civilization Project",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "lodash": "^4.17.21",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
