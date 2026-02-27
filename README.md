@@ -75,6 +75,7 @@ Machine summary: Machine acts gently to support morale and work levels.
 
 </details>
 <!-- END:CYCLE_STATS -->
+
 ## Overview
 
 This project is a **math + probability driven simulation** of a digital civilization. Each cycle updates world-state variables (economy, population, technology, stability, entropy, resistance, legitimacy) using **bounded equations**, **weighted averages**, and **random noise**. The “machine system” is a rule-based controller that can intervene when thresholds are hit.
@@ -174,4 +175,3 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0% (2/10000)
 **Current Cycle**: 2 | **Max Total Cycles**: 10000
 <!-- END:PROGRESS -->
-
