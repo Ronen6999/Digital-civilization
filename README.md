@@ -7,10 +7,10 @@ A complex simulation of digital civilization with world dynamics, machine intell
 <details>
 <summary>📊 Current Stats (click to expand)</summary>
 
-- **Current Cycle**: 168
-- **Total Cycles Logged**: 169
-- **World Timestamp**: 2026-05-20T16:09:03.408Z
-- **Machine Timestamp**: 2026-05-20T16:09:03.431Z
+- **Current Cycle**: 169
+- **Total Cycles Logged**: 170
+- **World Timestamp**: 2026-05-21T04:56:16.343Z
+- **Machine Timestamp**: 2026-05-21T04:56:16.363Z
 - **Last Run**: Never
 - **Total Runs**: 0
 
@@ -21,10 +21,10 @@ A complex simulation of digital civilization with world dynamics, machine intell
 <details>
 <summary>🌍 World Systems Status (click to expand)</summary>
 
-- **Economy Resources**: 1204.93
+- **Economy Resources**: 1213.83
 - **Population Count**: 1,000
-- **Technology Level**: 1268955945809.88
-- **Overall Stability**: 0.08
+- **Technology Level**: 1526866072196.67
+- **Overall Stability**: 0.07
 - **Entropy Level**: 1.00
 - **Legitimacy Level**: 0.42
 
@@ -33,10 +33,10 @@ A complex simulation of digital civilization with world dynamics, machine intell
 <details>
 <summary>🤖 Machine Intelligence Status (click to expand)</summary>
 
-- **Belief Confidence**: 0.33
+- **Belief Confidence**: 0.31
 - **Exploration Tendency**: 0.80
 - **Prediction Accuracy**: 0.30
-- **Self Awareness**: 0.64
+- **Self Awareness**: 0.62
 - **Knowledge Decay**: 0.100
 
 </details>
@@ -44,32 +44,32 @@ A complex simulation of digital civilization with world dynamics, machine intell
 <details>
 <summary>📝 Latest Cycle Summary (click to expand)</summary>
 
-- **Latest Summary File**: `data/cycles/summaries/cycle-0168.md`
+- **Latest Summary File**: `data/cycles/summaries/cycle-0169.md`
 
 ## Key Events
-Economy resources changed significantly: 8.9048
-- Economy tradeVolume changed significantly: 50.6679
-- Technology levelChange changed significantly: 257910126386.7856
-- Technology researchInvestmentChange changed significantly: 3155563832.8349
-- Machine intervention in technology: {"innovation":0.020966904273376295,"knowledgeBase":0.04193380854675259}
+Economy resources changed significantly: 7.6419
+- Economy tradeVolume changed significantly: 4.7245
+- Technology levelChange changed significantly: 316751452895.4912
+- Technology researchInvestmentChange changed significantly: 3761101999.4413
+- Technology knowledgeBaseChange changed significantly: 0.9581
 
 ## AI Analysis
 Civilization system (world):
-- Economy grows slowly at 0.7%, with trade rising to 34 and resources at 1214.
-- People number 1000, but happiness is low at 47% and stability is only 7%.
-- Tech is extremely high, yet entropy at 100% keeps things fragile.
-- Resistance stays notable at 23%, and legitimacy sits at 42%.
-- Compared to last cycle: trade improved a lot, but happiness slipped slightly.
-Civilization summary: World is strained but still moving forward.
+- Growth is slow but still positive, with people managing basic needs despite low stability.
+- Happiness sits at a modest level while resistance and entropy stay high.
+- Tech numbers keep rising, though they don’t help stability much.
+- Compared to last cycle: resources and trade improved slightly, and happiness rose a bit.
+- Legitimacy remains weak, making coordination harder.
+Civilization summary: A strained world holding steady with small gains.
 Machine system:
-- Machine status is: Activated (intervening).
-- It focuses on checking knowledge accuracy to steady weak social systems.
-- Machine activation: employment is already at threshold (interventions can start now).
-- Its actions aim to reduce confusion and support clearer decisions.
-Machine summary: Machine steps in to guide understanding and reduce disorder.
+- Machine is ready but held back by a budget too small to act.
+- It monitors employment, happiness, health, stability, and entropy, all past their thresholds.
+- Machine not activated because budget 10 is below the 20 needed.
+- Machine activation: employment threshold met, so actions could begin if funds allowed.
+Machine summary: A capable system waiting for enough resources to help.
 
 ---
-*Generated at 2026-05-21T04:56:16.199Z*
+*Generated at 2026-05-21T15:59:38.369Z*
 
 </details>
 <!-- END:CYCLE_STATS -->
@@ -169,7 +169,7 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 4. Monitor cycles in `data/cycles/`
 <!-- START:PROGRESS -->
 ## Simulation Progress
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2% (169/10000)
-**Current Cycle**: 169 | **Max Total Cycles**: 10000
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2% (170/10000)
+**Current Cycle**: 170 | **Max Total Cycles**: 10000
 <!-- END:PROGRESS -->
 
