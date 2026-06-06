@@ -1,7 +1,6 @@
 # Digital Civilization Simulation
 
 A complex simulation of digital civilization with world dynamics, machine intelligence, and cyclical evolution.
-<!-- START:CYCLE_STATS -->
 ## Simulation Statistics
 
 <details>
