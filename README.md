@@ -71,7 +71,7 @@ Machine summary: Machine acts lightly due to tight limits.
 *Generated at 2026-06-06T14:19:25.845Z*
 
 </details>
-<!-- END:CYCLE_STATS -->
+
 ## Overview
 
 This project is a **math + probability driven simulation** of a digital civilization. Each cycle updates world-state variables (economy, population, technology, stability, entropy, resistance, legitimacy) using **bounded equations**, **weighted averages**, and **random noise**. The “machine system” is a rule-based controller that can intervene when thresholds are hit.
