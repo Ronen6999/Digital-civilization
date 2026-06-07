@@ -168,7 +168,79 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 4. Monitor cycles in `data/cycles/`
 <!-- START:PROGRESS -->
 ## Simulation Progress
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2% (202/10000)
-**Current Cycle**: 202 | **Max Total Cycles**: 10000
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2% (203/10000)
+**Current Cycle**: 203 | **Max Total Cycles**: 10000
 <!-- END:PROGRESS -->
+<!-- START:CYCLE_STATS -->
+## Simulation Statistics
+
+<details>
+<summary>📊 Current Stats (click to expand)</summary>
+
+- **Current Cycle**: 202
+- **Total Cycles Logged**: 203
+- **World Timestamp**: 2026-06-06T14:19:25.952Z
+- **Machine Timestamp**: 2026-06-06T14:19:25.973Z
+- **Last Run**: Never
+- **Total Runs**: 0
+
+### Civilization Phase: **Collapse Risk**
+
+</details>
+
+<details>
+<summary>🌍 World Systems Status (click to expand)</summary>
+
+- **Economy Resources**: 1342.69
+- **Population Count**: 1,000
+- **Technology Level**: 613916582992055.50
+- **Overall Stability**: 0.07
+- **Entropy Level**: 1.00
+- **Legitimacy Level**: 0.43
+
+</details>
+
+<details>
+<summary>🤖 Machine Intelligence Status (click to expand)</summary>
+
+- **Belief Confidence**: 0.34
+- **Exploration Tendency**: 0.80
+- **Prediction Accuracy**: 0.12
+- **Self Awareness**: 0.66
+- **Knowledge Decay**: 0.100
+
+</details>
+
+<details>
+<summary>📝 Latest Cycle Summary (click to expand)</summary>
+
+- **Latest Summary File**: `data/cycles/summaries/cycle-0202.md`
+
+## Key Events
+Economy resources changed significantly: 0.9643
+- Economy tradeVolume changed significantly: -30.6233
+- Technology levelChange changed significantly: 131698741743965.8750
+- Technology researchInvestmentChange changed significantly: 268496529370.2646
+- Technology knowledgeBaseChange changed significantly: 0.9570
+
+## AI Analysis
+Civilization system (world):
+- Growth is very small, and trade is still negative at -63.
+- People show mid‑level happiness at 54%, but stability is very low at 7%.
+- Tech levels are extremely high, though entropy remains at 100%.
+- Compared to last cycle: resources rose slightly, but trade and happiness worsened.
+- Legitimacy and resistance stay mixed, keeping the world tense.
+Civilization summary: Low stability and weak trade strain an otherwise steady population.
+Machine system:
+- Machine not activated because budget 10 is below the needed 20.
+- It monitors employment, health, stability, and entropy since all thresholds are hit.
+- Machine activation: employment threshold met, so actions could start if budget allowed.
+- Current state is ready but limited, watching conditions without taking steps.
+Machine summary: Ready system held back by low budget and no active interventions.
+
+---
+*Generated at 2026-06-07T05:11:06.514Z*
+
+</details>
+<!-- END:CYCLE_STATS -->
 
