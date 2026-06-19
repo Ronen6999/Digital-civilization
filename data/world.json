@@ -1,56 +1,56 @@
 {
-  "timestamp": "2026-06-19T05:38:05.423Z",
-  "cycle": 227,
+  "timestamp": "2026-06-19T15:52:13.032Z",
+  "cycle": 228,
   "systems": {
     "economy": {
-      "growthRate": -0.0012652636815136606,
-      "resources": 1292.4263814693215,
-      "tradeVolume": 109.6687443414138,
-      "inflation": 0,
-      "employment": 0.6336149965493344,
-      "productivity": 1.1354607980040605,
-      "marketConfidence": 0.08250682335035883
+      "growthRate": -0.0029209846777997145,
+      "resources": 1288.6512238118655,
+      "tradeVolume": 105.77922661938055,
+      "inflation": 0.0017087295486485797,
+      "employment": 0.6348498639929546,
+      "productivity": 1.1365330034064618,
+      "marketConfidence": 0.11616478889695765
     },
     "population": {
       "count": 1000,
-      "growthRate": -0.04941068688655451,
-      "urbanization": 0.7933563342557431,
-      "happiness": 0.45022656751594725,
-      "educationLevel": 0.22663059455896645,
-      "health": 0.4765779685878202,
-      "diversity": 0.5245214476175809
+      "growthRate": -0.05,
+      "urbanization": 0.7957586371712974,
+      "happiness": 0.4296219156288716,
+      "educationLevel": 0.22665294755614732,
+      "health": 0.4703191433184528,
+      "diversity": 0.5237921071082371
     },
     "technology": {
-      "level": 60298978587483500,
-      "innovationRate": 0.2560178591893486,
-      "adoptionRate": 0.7178128953815568,
-      "researchInvestment": 49514030151357.24,
+      "level": 70348176918794830,
+      "innovationRate": 0.2495136307316669,
+      "adoptionRate": 0.7150072834624588,
+      "researchInvestment": 55938813019725.22,
       "technologicalGap": 0.05,
       "innovationCapacity": 1,
-      "knowledgeBase": 1,
+      "knowledgeBase": 0.04394434823466242,
       "technologyTree": {
-        "computing": 134040781.36267363,
-        "biotech": 133628009.65223607,
-        "energy": 119027235.81103882,
-        "materials": 105676717.09484105,
-        "transportation": 149360413.96653572
+        "computing": 145114408.97310707,
+        "biotech": 147035929.9430631,
+        "energy": 125692367.66969597,
+        "materials": 112784874.56738645,
+        "transportation": 157916952.0982553
       },
-      "techDebt": 0.26331339179938074,
+      "techDebt": 0.262623403745995,
       "breakthroughProbability": 0.1,
-      "innovation": 0.02173046217565959
+      "innovation": 0.02197217411733121
     },
     "stability": {
-      "political": 0.05,
-      "social": 0.08026710012611078,
-      "economic": 0.0650796074853901,
-      "overall": 0.07133667690287522,
-      "cohesion": 0.12146284916238995,
+      "political": 0.050158369406043644,
+      "social": 0.07770132498525126,
+      "economic": 0.06344081949803114,
+      "overall": 0.07462561677511169,
+      "cohesion": 0.13366398734275559,
       "volatility": 0.8,
-      "resilience": 0.17370708466100537,
-      "stressLevel": 0.882272990960725,
-      "confidenceIndex": 0.12008035547388896,
-      "institutionalStrength": 0.11116297816789142,
-      "publicTrust": 0.1131531826119351
+      "resilience": 0.17629696739968648,
+      "stressLevel": 0.8626322753188462,
+      "confidenceIndex": 0.13521939194747865,
+      "institutionalStrength": 0.11616165657341981,
+      "publicTrust": 0.11875532487251175
     },
     "entropy": {
       "current": 1,
@@ -58,14 +58,14 @@
       "rateOfIncrease": 0.01,
       "disorderLevel": 0.95,
       "chaosPotential": 0.95,
-      "complexity": 0.95,
+      "complexity": 0.9484640489159619,
       "predictability": 0.05,
-      "orderMaintenance": 0.27059763132263703,
+      "orderMaintenance": 0.27675630596177647,
       "entropySources": {
-        "population": 0.12317542215864172,
-        "technology": 0.2488320625729147,
-        "economy": 0.12360511128446419,
-        "politics": 0.09058936491835039,
+        "population": 0.11938262218095419,
+        "technology": 0.25,
+        "economy": 0.12279802129337383,
+        "politics": 0.08551644632129354,
         "environment": 0.04
       },
       "entropySinks": {
@@ -77,39 +77,39 @@
       "phaseTransitionThreshold": 0.8
     },
     "resistance": {
-      "toChange": 0.25122519967574686,
-      "toInnovation": 0.11249283499960881,
-      "toTechnology": 0.0790979737347622,
-      "toExternalInfluence": 0.21013093052180382,
-      "toGovernmentPolicy": 0.5604292405426339,
-      "adaptiveCapacity": 0.06484347115114504,
-      "institutionalRigidity": 0.4237661495170522,
+      "toChange": 0.2671924425651433,
+      "toInnovation": 0.09902077824502845,
+      "toTechnology": 0.06449931489750507,
+      "toExternalInfluence": 0.22894791500823156,
+      "toGovernmentPolicy": 0.5481517127976226,
+      "adaptiveCapacity": 0.06551578859939193,
+      "institutionalRigidity": 0.41421692340299276,
       "culturalConservatism": null,
       "resistanceNetworks": {
-        "traditionalists": 0.5556485618786693,
+        "traditionalists": 0.5476634166556302,
         "statusQuoPreservers": 0.8,
         "changeAverseGroups": 0.8,
         "riskAverseIndividuals": 0.8
       },
       "acceptanceFactors": {
-        "familiarity": 0.2708597320632015,
-        "trust": 0.95,
-        "perceivedBenefit": 0.5366029850231975,
-        "socialProof": 0.8409096136592586
+        "familiarity": 0.284411725857478,
+        "trust": 0.9494920035155278,
+        "perceivedBenefit": 0.5503548942746211,
+        "socialProof": 0.8502171665088156
       },
       "changeThreshold": 0.7,
-      "overall": 0.22233312907545702
+      "overall": 0.22101811235292207
     },
     "legitimacy": {
-      "publicAcceptanceOfMachine": 0.03881592,
+      "publicAcceptanceOfMachine": 0.048039601599999995,
       "trustInAutomation": 0,
-      "ideologicalSplit": 0.2472668620957154,
+      "ideologicalSplit": 0.2378320902668794,
       "institutionalSupport": 1,
       "performanceLegitimacy": 0.5,
-      "overallLegitimacy": 0.43525060758085693,
+      "overallLegitimacy": 0.43944348234662417,
       "legitimacyCrisisThreshold": 0.2,
       "machineInfluenceCap": 0.5,
-      "rebellionRisk": 0.1741800586287146,
+      "rebellionRisk": 0.17134962708006382,
       "legitimacyTrend": [
         0.5518197620670258,
         0.5608037635769766,
@@ -337,7 +337,8 @@
         0.4297949003797282,
         0.43333731033775097,
         0.4346092435131918,
-        0.43525060758085693
+        0.43525060758085693,
+        0.43944348234662417
       ],
       "maxTrendLength": 50
     }
@@ -32193,16 +32194,156 @@
         ]
       },
       "timestamp": "2026-06-19T05:38:00.916Z"
+    },
+    {
+      "cycle": 227,
+      "changes": {
+        "economy": {
+          "growthRate": -0.001655720996286054,
+          "resources": -3.7751576574560204,
+          "tradeVolume": -3.889517722033247,
+          "inflation": 0.0017087295486485797,
+          "employment": 0.0012348674436202245,
+          "productivity": 0.0010722054024012717,
+          "marketConfidence": 0.03365796554659882
+        },
+        "population": {
+          "count": 0,
+          "growthRate": -0.0005893131134454901,
+          "urbanization": 0.002402302915554211,
+          "happiness": -0.020604651887075665,
+          "educationLevel": 0.000022352997180868917,
+          "health": -0.006258825269367385,
+          "diversity": -0.0007293405093438121
+        },
+        "technology": {
+          "levelChange": 10049198331311328,
+          "innovationRateChange": -0.006504228457681699,
+          "adoptionRateChange": -0.0028056119190980056,
+          "researchInvestmentChange": 6424782868367.977,
+          "technologicalGapChange": 0,
+          "innovationCapacityChange": 0,
+          "knowledgeBaseChange": 0
+        },
+        "stability": {
+          "politicalChange": 0.00015836940604364164,
+          "socialChange": -0.0025657751408595247,
+          "economicChange": -0.0016387879873589611,
+          "overallChange": 0.0032889398722364682,
+          "cohesionChange": 0.01220113818036564,
+          "volatilityChange": 0,
+          "resilienceChange": 0.002589882738681104
+        },
+        "entropy": {
+          "entropyChange": 0,
+          "rateOfIncreaseChange": 0,
+          "disorderChange": 0,
+          "complexityChange": -0.0015359510840380342,
+          "predictabilityChange": 0,
+          "orderMaintenanceChange": 0.006158674639139439
+        },
+        "resistance": {
+          "toChangeChange": 0.015967242889396438,
+          "toInnovationChange": -0.013472056754580367,
+          "toTechnologyChange": -0.014598658837257125,
+          "toExternalInfluenceChange": 0.01881698448642774,
+          "toGovernmentPolicyChange": -0.01227752774501123,
+          "adaptiveCapacityChange": 0.0006723174482468897,
+          "institutionalRigidityChange": -0.00954922611405945
+        },
+        "legitimacy": {
+          "publicAcceptanceChange": 0.009223681599999999,
+          "trustInAutomationChange": 0,
+          "ideologicalSplitChange": -0.009434771828836008,
+          "institutionalSupportChange": 0,
+          "performanceLegitimacyChange": 0,
+          "overallLegitimacyChange": 0.0041928747657672405,
+          "influenceCapChange": 0,
+          "rebellionRiskChange": -0.002830431548650786
+        },
+        "timestamp": "2026-06-19T15:52:09.502Z",
+        "cycle": 227,
+        "causalEffects": [
+          {
+            "from": "economy.resources",
+            "to": "population.growthRate",
+            "weight": 0.4,
+            "originalChange": -3.7751576574560204,
+            "propagatedEffect": -1.5100630629824083
+          },
+          {
+            "from": "economy.employment",
+            "to": "population.happiness",
+            "weight": 0.3,
+            "originalChange": 0.0012348674436202245,
+            "propagatedEffect": 0.00037046023308606735
+          },
+          {
+            "from": "economy.marketConfidence",
+            "to": "population.happiness",
+            "weight": 0.2,
+            "originalChange": 0.03365796554659882,
+            "propagatedEffect": 0.006731593109319764
+          },
+          {
+            "from": "population.count",
+            "to": "economy.resources",
+            "weight": 0.1,
+            "originalChange": 0,
+            "propagatedEffect": 0
+          },
+          {
+            "from": "population.urbanization",
+            "to": "entropy.current",
+            "weight": 0.2,
+            "originalChange": 0.002402302915554211,
+            "propagatedEffect": 0.0004804605831108422
+          },
+          {
+            "from": "population.happiness",
+            "to": "stability.social",
+            "weight": 0.5,
+            "originalChange": -0.020604651887075665,
+            "propagatedEffect": -0.010302325943537832
+          },
+          {
+            "from": "population.educationLevel",
+            "to": "technology.innovationRate",
+            "weight": 0.3,
+            "originalChange": 0.000022352997180868917,
+            "propagatedEffect": 0.000006705899154260675
+          }
+        ],
+        "thresholdViolations": [
+          {
+            "path": "stability.overall",
+            "value": 0.07462561677511169,
+            "threshold": 0.2,
+            "type": "min_violation",
+            "trigger": "stability_collapse"
+          },
+          {
+            "path": "entropy.current",
+            "value": 1,
+            "threshold": 0.9,
+            "type": "max_violation",
+            "trigger": "entropy_runaway"
+          },
+          {
+            "path": "technology.level",
+            "value": 70348176918794830,
+            "threshold": 10,
+            "type": "max_violation",
+            "trigger": "tech_singularity"
+          }
+        ]
+      },
+      "timestamp": "2026-06-19T15:52:09.502Z"
     }
   ],
   "trends": {
     "economy": {
       "growthRate": [
-        {
-          "cycle": 207,
-          "value": -0.0012986567667205434,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.0013039491722325026,
@@ -32297,14 +32438,14 @@
           "cycle": 226,
           "value": 0.001969307164392405,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.001655720996286054,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "resources": [
-        {
-          "cycle": 207,
-          "value": -1.4637118040732275,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -3.223142476232397,
@@ -32399,14 +32540,14 @@
           "cycle": 226,
           "value": -1.6373318179871603,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -3.7751576574560204,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "tradeVolume": [
-        {
-          "cycle": 207,
-          "value": -24.023198681120974,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -18.935826410196427,
@@ -32501,14 +32642,14 @@
           "cycle": 226,
           "value": 35.22989170855921,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -3.889517722033247,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "inflation": [
-        {
-          "cycle": 207,
-          "value": 0.0019379659730214003,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.0019379659730214003,
@@ -32603,14 +32744,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0017087295486485797,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "employment": [
-        {
-          "cycle": 207,
-          "value": 0.009405201392554519,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.009205772034480475,
@@ -32705,14 +32846,14 @@
           "cycle": 226,
           "value": 0.012927174968791144,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0012348674436202245,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "productivity": [
-        {
-          "cycle": 207,
-          "value": 0.0005223357955921326,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0010847612226663195,
@@ -32807,14 +32948,14 @@
           "cycle": 226,
           "value": 0.0005809746387637205,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0010722054024012717,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "marketConfidence": [
-        {
-          "cycle": 207,
-          "value": 0.007686470881795318,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.03728515482896981,
@@ -32909,16 +33050,16 @@
           "cycle": 226,
           "value": 0.042909516573677954,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.03365796554659882,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "population": {
       "count": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -33013,14 +33154,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "growthRate": [
-        {
-          "cycle": 207,
-          "value": 0.0007684828804419008,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.00037733326492075947,
@@ -33115,14 +33256,14 @@
           "cycle": 226,
           "value": 0.0005893131134454901,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0005893131134454901,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "urbanization": [
-        {
-          "cycle": 207,
-          "value": 0.000829651182609803,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.00291979396872033,
@@ -33217,14 +33358,14 @@
           "cycle": 226,
           "value": 0.001131341302679445,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.002402302915554211,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "happiness": [
-        {
-          "cycle": 207,
-          "value": -0.05538327094470741,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.03374566177619681,
@@ -33319,14 +33460,14 @@
           "cycle": 226,
           "value": 0.01598062761827268,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.020604651887075665,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "educationLevel": [
-        {
-          "cycle": 207,
-          "value": 0.0009498547741912944,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.0004972081773892134,
@@ -33421,14 +33562,14 @@
           "cycle": 226,
           "value": 0.00040076858796259107,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.000022352997180868917,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "health": [
-        {
-          "cycle": 207,
-          "value": 0.002995494749669203,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.0062663814991738565,
@@ -33523,14 +33664,14 @@
           "cycle": 226,
           "value": -0.008316987192690473,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.006258825269367385,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "diversity": [
-        {
-          "cycle": 207,
-          "value": -0.0009235076549048982,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0006247822413639748,
@@ -33625,16 +33766,16 @@
           "cycle": 226,
           "value": -0.0011856242207355372,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0007293405093438121,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "technology": {
       "levelChange": [
-        {
-          "cycle": 207,
-          "value": 311427743956538,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 434552979903799,
@@ -33729,14 +33870,14 @@
           "cycle": 226,
           "value": 9432196459579104,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 10049198331311328,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "innovationRateChange": [
-        {
-          "cycle": 207,
-          "value": 0.009982679808080042,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0056301262526220475,
@@ -33831,14 +33972,14 @@
           "cycle": 226,
           "value": -0.007447593870105296,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.006504228457681699,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "adoptionRateChange": [
-        {
-          "cycle": 207,
-          "value": 0.0013601612510727445,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0016669858713370678,
@@ -33933,14 +34074,14 @@
           "cycle": 226,
           "value": 0.002382413448425491,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0028056119190980056,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "researchInvestmentChange": [
-        {
-          "cycle": 207,
-          "value": 563531703126.2295,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 660198090184.4839,
@@ -34035,15 +34176,15 @@
           "cycle": 226,
           "value": 5812671002254.578,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 6424782868367.977,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "technologicalGapChange": [
         {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
-        {
           "cycle": 208,
           "value": 0,
           "timestamp": "2026-06-10T05:04:43.390Z"
@@ -34137,15 +34278,15 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "innovationCapacityChange": [
         {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
-        {
           "cycle": 208,
           "value": 0,
           "timestamp": "2026-06-10T05:04:43.390Z"
@@ -34239,14 +34380,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "knowledgeBaseChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.9571970220816225,
@@ -34341,16 +34482,16 @@
           "cycle": 226,
           "value": 0.9565390756486808,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "stability": {
       "politicalChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -34445,14 +34586,14 @@
           "cycle": 226,
           "value": -0.0005766741784154761,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.00015836940604364164,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "socialChange": [
-        {
-          "cycle": 207,
-          "value": 0.003056370583156262,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.001008692530543337,
@@ -34547,14 +34688,14 @@
           "cycle": 226,
           "value": 0.0011504087278850078,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0025657751408595247,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "economicChange": [
-        {
-          "cycle": 207,
-          "value": -0.003246857473152509,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.002684359734398789,
@@ -34649,14 +34790,14 @@
           "cycle": 226,
           "value": -0.001689153878809968,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0016387879873589611,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "overallChange": [
-        {
-          "cycle": 207,
-          "value": -0.00004762172249905827,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0003226615652249659,
@@ -34751,14 +34892,14 @@
           "cycle": 226,
           "value": -0.00030768854125588774,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0032889398722364682,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "cohesionChange": [
-        {
-          "cycle": 207,
-          "value": 0.006229623157302452,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.006229623157302452,
@@ -34853,14 +34994,14 @@
           "cycle": 226,
           "value": 0.02146284916238994,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.01220113818036564,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "volatilityChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -34955,14 +35096,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "resilienceChange": [
-        {
-          "cycle": 207,
-          "value": -0.00047572444759955146,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.005466400546981304,
@@ -35057,17 +35198,17 @@
           "cycle": 226,
           "value": 0.011111775884231373,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.002589882738681104,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "entropy": {
       "entropyChange": [
         {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
-        {
           "cycle": 208,
           "value": 0,
           "timestamp": "2026-06-10T05:04:43.390Z"
@@ -35161,15 +35302,15 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "rateOfIncreaseChange": [
         {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
-        {
           "cycle": 208,
           "value": 0,
           "timestamp": "2026-06-10T05:04:43.390Z"
@@ -35263,15 +35404,15 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "disorderChange": [
         {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
-        {
           "cycle": 208,
           "value": 0,
           "timestamp": "2026-06-10T05:04:43.390Z"
@@ -35365,14 +35506,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "complexityChange": [
-        {
-          "cycle": 207,
-          "value": -0.0016381939327623218,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0016381939327623218,
@@ -35467,14 +35608,14 @@
           "cycle": 226,
           "value": 0.003668371816146876,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.0015359510840380342,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "predictabilityChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -35569,14 +35710,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "orderMaintenanceChange": [
-        {
-          "cycle": 207,
-          "value": 0.0011898021214855614,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.005730964778768111,
@@ -35671,16 +35812,16 @@
           "cycle": 226,
           "value": -0.001325528710732271,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.006158674639139439,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "resistance": {
       "toChangeChange": [
-        {
-          "cycle": 207,
-          "value": -0.003058186579561639,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.01790570969836569,
@@ -35775,14 +35916,14 @@
           "cycle": 226,
           "value": -0.012251963808652233,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.015967242889396438,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "toInnovationChange": [
-        {
-          "cycle": 207,
-          "value": 0.001900236058817395,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.018556360763201718,
@@ -35877,14 +36018,14 @@
           "cycle": 226,
           "value": -0.012882250246671265,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.013472056754580367,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "toTechnologyChange": [
-        {
-          "cycle": 207,
-          "value": -0.019206474457689582,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.010958552490567403,
@@ -35979,14 +36120,14 @@
           "cycle": 226,
           "value": 0.01156808626500612,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.014598658837257125,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "toExternalInfluenceChange": [
-        {
-          "cycle": 207,
-          "value": 0.018943953162657123,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.01194338110988874,
@@ -36081,14 +36222,14 @@
           "cycle": 226,
           "value": -0.007835016920173798,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.01881698448642774,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "toGovernmentPolicyChange": [
-        {
-          "cycle": 207,
-          "value": 0.021119221455028536,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.013173295183452116,
@@ -36183,14 +36324,14 @@
           "cycle": 226,
           "value": -0.01692061909602882,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.01227752774501123,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "adaptiveCapacityChange": [
-        {
-          "cycle": 207,
-          "value": -0.008735677753350435,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.002864831324260103,
@@ -36285,14 +36426,14 @@
           "cycle": 226,
           "value": 0.000059699771882928965,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0006723174482468897,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "institutionalRigidityChange": [
-        {
-          "cycle": 207,
-          "value": -0.008152659558796571,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.005774443812000207,
@@ -36387,16 +36528,16 @@
           "cycle": 226,
           "value": -0.013604893336405188,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.00954922611405945,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     },
     "legitimacy": {
       "publicAcceptanceChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -36491,14 +36632,14 @@
           "cycle": 226,
           "value": 0.009411919999999997,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.009223681599999999,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "trustInAutomationChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -36593,14 +36734,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "ideologicalSplitChange": [
-        {
-          "cycle": 207,
-          "value": -0.0012032433616014915,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.009282456353239266,
@@ -36695,14 +36836,14 @@
           "cycle": 226,
           "value": 0.008720947056166911,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.009434771828836008,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "institutionalSupportChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -36797,14 +36938,14 @@
           "cycle": 226,
           "value": 0.00016286739449289378,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "performanceLegitimacyChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -36899,14 +37040,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "overallLegitimacyChange": [
-        {
-          "cycle": 207,
-          "value": 0.000240648672320265,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0.0018564912706478531,
@@ -37001,14 +37142,14 @@
           "cycle": 226,
           "value": 0.0006413640676651289,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0.0041928747657672405,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "influenceCapChange": [
-        {
-          "cycle": 207,
-          "value": 0,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": 0,
@@ -37103,14 +37244,14 @@
           "cycle": 226,
           "value": 0,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": 0,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ],
       "rebellionRiskChange": [
-        {
-          "cycle": 207,
-          "value": -0.00036097300848042524,
-          "timestamp": "2026-06-09T15:43:03.056Z"
-        },
         {
           "cycle": 208,
           "value": -0.0027847369059718075,
@@ -37205,6 +37346,11 @@
           "cycle": 226,
           "value": 0.002616284116850054,
           "timestamp": "2026-06-19T05:38:00.916Z"
+        },
+        {
+          "cycle": 227,
+          "value": -0.002830431548650786,
+          "timestamp": "2026-06-19T15:52:09.502Z"
         }
       ]
     }
