@@ -168,8 +168,8 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 4. Monitor cycles in `data/cycles/`
 <!-- START:PROGRESS -->
 ## Simulation Progress
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3% (256/10000)
-**Current Cycle**: 256 | **Max Total Cycles**: 10000
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3% (257/10000)
+**Current Cycle**: 257 | **Max Total Cycles**: 10000
 <!-- END:PROGRESS -->
 <!-- START:CYCLE_STATS -->
 ## Simulation Statistics
@@ -177,10 +177,10 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>📊 Current Stats (click to expand)</summary>
 
-- **Current Cycle**: 255
-- **Total Cycles Logged**: 256
-- **World Timestamp**: 2026-07-03T04:30:35.509Z
-- **Machine Timestamp**: 2026-07-03T04:30:35.544Z
+- **Current Cycle**: 256
+- **Total Cycles Logged**: 257
+- **World Timestamp**: 2026-07-03T14:56:29.930Z
+- **Machine Timestamp**: 2026-07-03T14:56:29.964Z
 - **Last Run**: Never
 - **Total Runs**: 0
 
@@ -191,9 +191,9 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>🌍 World Systems Status (click to expand)</summary>
 
-- **Economy Resources**: 1271.00
+- **Economy Resources**: 1270.13
 - **Population Count**: 1,000
-- **Technology Level**: 6039047003960868864.00
+- **Technology Level**: 7227490657017052160.00
 - **Overall Stability**: 0.07
 - **Entropy Level**: 1.00
 - **Legitimacy Level**: 0.48
@@ -203,10 +203,10 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>🤖 Machine Intelligence Status (click to expand)</summary>
 
-- **Belief Confidence**: 0.37
+- **Belief Confidence**: 0.35
 - **Exploration Tendency**: 0.80
-- **Prediction Accuracy**: 0.28
-- **Self Awareness**: 0.60
+- **Prediction Accuracy**: 0.25
+- **Self Awareness**: 0.62
 - **Knowledge Decay**: 0.100
 
 </details>
@@ -214,32 +214,32 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>📝 Latest Cycle Summary (click to expand)</summary>
 
-- **Latest Summary File**: `data/cycles/summaries/cycle-0255.md`
+- **Latest Summary File**: `data/cycles/summaries/cycle-0256.md`
 
 ## Key Events
-Economy resources changed significantly: -0.8720
-- Economy tradeVolume changed significantly: -14.3655
-- Technology levelChange changed significantly: 1188443653056183296.0000
-- Technology researchInvestmentChange changed significantly: 162664265850134.2500
-- Machine intervention in technology: {"innovation":0.02416139033530665,"knowledgeBase":0.0483227806706133}
+Economy resources changed significantly: -1.7779
+- Economy tradeVolume changed significantly: -26.2705
+- Technology levelChange changed significantly: 1250280230510714880.0000
+- Technology researchInvestmentChange changed significantly: 175250473588908.2500
+- Technology knowledgeBaseChange changed significantly: 0.9517
 
 ## AI Analysis
 Civilization system (world):
-- Economy is slightly shrinking, and people feel uneasy with low stability.
-- Resources and trade have dipped, making daily life a bit harder.
-- Happiness is modest, and legitimacy sits in the middle range.
-- Tech levels are extremely high but not helping stability yet.
+- Economy is slightly shrinking at -0.1%, and trade has dropped to 93.
+- People number 1000, with happiness at 41% and stability very low at 7%.
+- Resources sit at 1268, while resistance is 22% and legitimacy is 49%.
+- Tech output is extremely high, though entropy is at its maximum.
 - Compared to last cycle: trade and happiness worsened while tech rose sharply.
-Civilization summary: World is strained but still functioning with mixed signals.
+Civilization summary: World is strained but still functioning.
 Machine system:
-- Machine status is: Activated (intervening).
-- It is checking knowledge accuracy to reduce confusion among people.
-- Its actions aim to steady weak areas like stability and happiness.
-- Machine activation: employment is already at threshold (interventions can start now).
-Machine summary: Machine acts to verify knowledge and ease social strain.
+- Machine is ready but limited by a small budget of 10.
+- It reviews thresholds hit for employment, happiness, health, stability, and entropy.
+- Machine not activated because budget is too low for the minimum cost of 20.
+- Machine activation: employment threshold met, so actions could start if funds allowed.
+Machine summary: Machine stands ready but cannot act.
 
 ---
-*Generated at 2026-07-03T14:56:29.779Z*
+*Generated at 2026-07-04T04:25:43.199Z*
 
 </details>
 <!-- END:CYCLE_STATS -->
