@@ -237,7 +237,7 @@ Machine system:
 - Machine activation: employment threshold met, but cost barrier stops interventions.
 Machine summary: Machine stands by, watching conditions but unable to act.
 
----
+----
 *Generated at 2026-07-05T14:21:49.792Z*
 
 </details>
