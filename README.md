@@ -168,8 +168,8 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 4. Monitor cycles in `data/cycles/`
 <!-- START:PROGRESS -->
 ## Simulation Progress
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5% (546/10000)
-**Current Cycle**: 546 | **Max Total Cycles**: 10000
+[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5% (547/10000)
+**Current Cycle**: 547 | **Max Total Cycles**: 10000
 <!-- END:PROGRESS -->
 <!-- START:CYCLE_STATS -->
 ## Simulation Statistics
@@ -177,10 +177,10 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>📊 Current Stats (click to expand)</summary>
 
-- **Current Cycle**: 545
-- **Total Cycles Logged**: 546
-- **World Timestamp**: 2026-11-25T22:20:16.849Z
-- **Machine Timestamp**: 2026-11-25T22:20:16.918Z
+- **Current Cycle**: 546
+- **Total Cycles Logged**: 547
+- **World Timestamp**: 2026-11-26T09:09:13.621Z
+- **Machine Timestamp**: 2026-11-26T09:09:14.472Z
 - **Last Run**: Never
 - **Total Runs**: 0
 
@@ -191,9 +191,9 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>🌍 World Systems Status (click to expand)</summary>
 
-- **Economy Resources**: 15995.78
+- **Economy Resources**: 16016.75
 - **Population Count**: 1,000
-- **Technology Level**: 3.1349523309612376e+39
+- **Technology Level**: 3.6789289575465394e+39
 - **Overall Stability**: 0.07
 - **Entropy Level**: 1.00
 - **Legitimacy Level**: 0.45
@@ -203,10 +203,10 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>🤖 Machine Intelligence Status (click to expand)</summary>
 
-- **Belief Confidence**: 0.34
+- **Belief Confidence**: 0.32
 - **Exploration Tendency**: 0.80
-- **Prediction Accuracy**: 0.26
-- **Self Awareness**: 0.68
+- **Prediction Accuracy**: 0.28
+- **Self Awareness**: 0.67
 - **Knowledge Decay**: 0.100
 
 </details>
@@ -214,20 +214,20 @@ AI is **not used** to compute economy/population/stability/etc. The only AI call
 <details>
 <summary>📝 Latest Cycle Summary (click to expand)</summary>
 
-- **Latest Summary File**: `data/cycles/summaries/cycle-0545.md`
+- **Latest Summary File**: `data/cycles/summaries/cycle-0546.md`
 
 ## Key Events
-Economy resources changed significantly: 20.9704
-- Economy tradeVolume changed significantly: 25.1487
-- Technology levelChange changed significantly: 5.4397662658530175e+38
-- Technology researchInvestmentChange changed significantly: 1.0894355945592672e+29
-- Machine intervention in technology: {"innovation":0.02272010900888857,"knowledgeBase":0.04544021801777714}
+Economy resources changed significantly: 44.0981
+- Economy tradeVolume changed significantly: -13.9107
+- Technology levelChange changed significantly: 6.958415268544143e+38
+- Technology researchInvestmentChange changed significantly: 1.216488272180254e+29
+- Technology knowledgeBaseChange changed significantly: 0.9546
 
 ## AI Analysis
 AI analysis failed to generate. Reason: Request failed with status code 402
 
 ---
-*Generated at 2026-11-26T09:09:12.998Z*
+*Generated at 2026-11-26T22:11:52.395Z*
 
 </details>
 <!-- END:CYCLE_STATS -->
